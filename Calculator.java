@@ -8,7 +8,7 @@ public class Calculator {
         this.num2=num2;
     }
     public double operation(char op,double num1,double num2){
-        //edit from calculator
+        // edit from main 
         // does not return anything
         if(op=='+') return num1+num2;
         else if(op=='-') return num1-num2;
