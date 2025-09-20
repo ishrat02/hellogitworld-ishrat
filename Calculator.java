@@ -8,6 +8,7 @@ public class Calculator {
         this.num2=num2;
     }
     public double operation(char op,double num1,double num2){
+        // trying rebase
         // edit from main 
         // does not return anything
         if(op=='+') return num1+num2;
